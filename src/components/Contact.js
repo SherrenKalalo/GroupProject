@@ -14,17 +14,17 @@ export default function Contact() {
                 <div className="col-md-6">
                 <form action method="POST" className="tm-contact-form">
                     <div className="form-group">
-                    <input type="text" name="name" className="form-control" placeholder="Name" required />
+                    <input type="text" name="name" className="form-control" placeholder="Nama" required />
                     </div>
                     <div className="form-group">
                     <input type="email" name="email" className="form-control" placeholder="Email" required />
                     </div>
                     <div className="form-group">
-                    <textarea rows={5} name="message" className="form-control" placeholder="Message" required defaultValue={""} />
+                    <textarea rows={5} name="message" className="form-control" placeholder="Pesan" required defaultValue={""} />
                     </div>
                     <div className="form-group tm-d-flex">
                     <button type="submit" className="tm-btn tm-btn-success tm-btn-right">
-                        Send
+                        Kirim
                     </button>
                     </div>
                 </form>
