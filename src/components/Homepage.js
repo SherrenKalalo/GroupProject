@@ -5,6 +5,7 @@ import About from './About';
 import axios from "axios";
 import Top from './Top';
 import History from './History';
+import Zoom from 'react-reveal/Zoom'
 
 const Homepage = () => {
 
@@ -19,6 +20,7 @@ const Homepage = () => {
         <div className="container">
             <Top />
             <main>
+                <Zoom>
                 <header className="row tm-welcome-section">
                 <h2 className="col-12 text-center tm-section-title">Marijo makang disini kawan</h2>
                 <p className="col-12 text-center">Budayakan malas memasa, karena memasa torang pe kerja. Singgah jo, nanti om deng tanta yang ator ngoni pe makang. Abis makang jang lupa bayar neh, nda mahal-mahal skali kwa eh. Puru kenyang, ngoni senang, om deng tanta senang.</p>
@@ -26,7 +28,7 @@ const Homepage = () => {
                 <div className="tm-paging-links">
                     <h1 className="col-12 text-center tm-section-title">Menu Makanan</h1>
                 </div>
-
+                </Zoom>
                 {/* Menu */}
                 <div className="row tm-gallery">
                 {/* gallery page 1 */}

@@ -16,7 +16,7 @@ const Top = () => {
                     </div>
                     <nav className="col-md-6 col-12 tm-nav">
                         <ul className="tm-nav-ul">
-                        <li className="tm-nav-li"><a href="index.html" className="tm-nav-link active">Home</a></li>
+                        <li className="tm-nav-li"><a href="index.html" className="tm-nav-link active background">Home</a></li>
                         <li className="tm-nav-li"><a href="#about" className="tm-nav-link active">About</a></li>
                         <li className="tm-nav-li"><a href="#Contact" className="tm-nav-link active">Contact</a></li>
                         </ul>
