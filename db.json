@@ -1,3 +1,10 @@
 {
-  
+  "menu": [
+    {
+      "judul": "Mie Tinutuan",
+      "gambar": "g1",
+      "harga": "Rp. 15,000",
+      "keterangan":"Mie tinu ini depe bahan-bahan dari bahan berkualitas deng depe sayor-sayor da pete langsung dari dpe kobong, jadi so pasti dijamin enak."
+    }
+  ]
 }
