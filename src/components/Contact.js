@@ -6,7 +6,7 @@ export default function Contact() {
     <div className="container" id='Contact'>
         <main>
             <header className="row tm-welcome-section">
-            <h2 className="col-12 text-center tm-section-title">Contact Page</h2>
+            <h2 className="col-12 text-center tm-section-title">Contact</h2>
             <p className="col-12 text-center">You may use <a rel="nofollow" href="https://www.ltcclock.com/downloads/simple-contact-form/" target="_blank">Simple Contact Form</a> to send email to your inbox. You can modify and use this template for your website. Header image has a parallax effect. Total 3 HTML pages included in this template.</p>
             </header>
             <div className="tm-container-inner-2 tm-contact-section">
