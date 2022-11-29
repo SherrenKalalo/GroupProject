@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import "../assets/css/templatemo-style.css";
 
 export default function About() {
@@ -113,5 +113,5 @@ export default function About() {
   </div>
         </main>
     </div>
-  )
-}
+  );
+};
