@@ -31,9 +31,9 @@ export default function Contact() {
                 </div>
                 <div className="col-md-6">
                 <div className="tm-address-box">
-                    <h4 className="tm-info-title tm-text-success">Our Address</h4>
+                    <h4 className="tm-info-title tm-text-success">Alamat</h4>
                     <address>
-                    180 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus 10550
+                    Kadoodan, Kota Bitung
                     </address>
                     <a href="tel:080-090-0110" className="tm-contact-link">
                     <i className="fas fa-phone tm-contact-icon" />080-090-0110
@@ -60,7 +60,7 @@ export default function Contact() {
             <div className="row">
                 <div className="col-12">
                 <div className="tm-map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11196.961132529668!2d-43.38581128725845!3d-23.011063013218724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdb695cd967b7%3A0x171cdd035a6a9d84!2sAv.%20L%C3%BAcio%20Costa%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%20Brazil!5e0!3m2!1sen!2sth!4v1568649412152!5m2!1sen!2sth" frameBorder={0} style={{border: 0}} allowFullScreen />
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3827.5269101164486!2d125.17816583001341!3d1.4459888205715434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sid!4v1669641277843!5m2!1sen!2sid" frameBorder={0} style={{border: 0}} allowFullScreen />
                 </div>
                 </div>
             </div>
