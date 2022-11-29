@@ -116,11 +116,10 @@ export default function About() {
     <div className="row">
       <div className="col-12">
         <div className="tm-history-inner">
-          <img src="img/about-06.jpg" alt="Image" className="img-fluid tm-history-img" />
+          <img src="img/sejarah.jpg" alt="Image" className="img-fluid tm-history-img" />
           <div className="tm-history-text"> 
-            <h4 className="tm-history-title">History of our restaurant</h4>
-            <p className="tm-mb-p">Sed ligula risus, interdum aliquet imperdiet sit amet, auctor sit amet justo. Maecenas posuere lorem id augue interdum vehicula. Praesent sed leo eget libero ultricies congue.</p>
-            <p>Redistributing this template as a downloadable ZIP file on any template collection site is strictly prohibited. You will need to <a href="https://templatemo.com/contact">contact TemplateMo</a> for additional permissions about our templates. Thank you.</p>
+            <h4 className="tm-history-title">Sejarah</h4>
+            <p className="tm-mb-p">Dulu skali, owner pe mama pe papa bajual makanan for smokol pagi. Bersyukur skali, pe banya skali orang yang babeli. Waktu itu masih bajual dimuka rumah, mar karena rame skali orang ja babeli akhirnya torang pindah di kios yang torang sewa. Dari situ boleh mo kase skolah owner pe mama deng sudara yang laeng. Setelah itu, ni kios dapa kase waris pa owner selaku cucu pertama. Puji Tuhan skali, dari yang dulu masih bajual di kios kacili, skarang so buka cabang di tampa laeng. Smua karena Tuhan pe bae...</p>
           </div>
         </div>	
       </div>
