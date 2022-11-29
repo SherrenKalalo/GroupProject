@@ -67,7 +67,7 @@ const Homepage = () => {
                     <div className="tm-description-box"> 
                     <br></br>
                         <h2 style={{color: 'rgba(100, 1, 1, 1)'}}>Terbukti Terkenal!!!</h2> <br></br>
-                        <p className="tm-mb-45">See??? Bahkan Jess No Limit dan Sisca Kohl pernah makang disiniii :p. So, tunggu apalagi guys? Pesan jo sekarang! ^^</p>
+                        <p className="tm-mb-45">See??? Bahkan Jess No Limit deng Sisca Kohl pernah makang disiniii :p. Kong mo tunggu apalagi guys? Datang deng pesan jo sekarang! ^^</p>
                     </div>
                     </div>
                 </div>
