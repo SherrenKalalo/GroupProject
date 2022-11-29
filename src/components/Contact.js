@@ -69,8 +69,8 @@ export default function Contact() {
             <div className="row">
                 {/* FAQ */}
                 <div className="col-12 tm-faq">
-                <h2 className="text-center tm-section-title">FAQs</h2>
-                <p className="text-center">This section comes with Accordion tabs for different questions and answers about Simple House HTML CSS template. Thank you. #666</p>
+                <h2 className="text-center tm-section-title">Denver Group</h2>
+                <p className="text-center">Final Project Front End Web Developer - A</p>
                 <div className="tm-accordion">
                     <button className="accordion">1. Fusce eu lorem et dui #09C maximus varius?</button>
                     <div className="panel">
