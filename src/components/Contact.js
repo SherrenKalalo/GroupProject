@@ -33,7 +33,7 @@ export default function Contact() {
                 <div className="tm-address-box">
                     <h4 className="tm-info-title tm-text-success">Alamat</h4>
                     <address>
-                    Kadoodan, Kota Bitung
+                    180 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus 10550
                     </address>
                     <a href="tel:080-090-0110" className="tm-contact-link">
                     <i className="fas fa-phone tm-contact-icon" />080-090-0110
