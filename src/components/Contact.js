@@ -4,8 +4,6 @@ import "../assets/css/templatemo-style.css";
 export default function Contact() {
   return (
     <div className="container" id='Contact'>
-        {/* Top box */}
-        {/* Logo & Site Name */}
         <main>
             <header className="row tm-welcome-section">
             <h2 className="col-12 text-center tm-section-title">Contact Page</h2>
