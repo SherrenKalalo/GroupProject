@@ -35,8 +35,8 @@ const Homepage = () => {
                     menu.map(item => {
                         return(
                              <article className="col-lg-3 col-md-4 col-sm-6 col-20 tm-gallery-item">
-                                <figure>
-                                    <img src={`img/${item.gambar}.jpg`} alt="Image" className="img-fluid tm-gallery-img" />
+                                <figure> {`img/${item.gambar}.jpg`}
+                                    <img src={`img/${item.gambar}`} alt="Image" className="img-fluid tm-gallery-img" />
                                     <figcaption>
                                         <h4 className="tm-gallery-title">{item.judul}</h4>
                                         <p className="tm-gallery-description">{item.keterangan}</p>
