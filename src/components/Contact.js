@@ -7,7 +7,7 @@ export default function Contact() {
         <main>
             <header className="row tm-welcome-section">
             <h2 className="col-12 text-center tm-section-title">Contact</h2>
-            <p className="col-12 text-center">You may use <a rel="nofollow" href="https://www.ltcclock.com/downloads/simple-contact-form/" target="_blank">Simple Contact Form</a> Kalo ngoni butuh sesuatu hubungi pa torang. torang so sediakan kontak yang bisa ngoni mo hubungi</p>
+            <p className="col-12 text-center"><a rel="nofollow" href="https://www.ltcclock.com/downloads/simple-contact-form/" target="_blank"></a> Kalo ngoni butuh sesuatu hubungi pa torang. torang so sediakan kontak yang bisa ngoni mo hubungi</p>
             </header>
             <div className="tm-container-inner-2 tm-contact-section">
             <div className="row">
