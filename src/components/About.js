@@ -6,9 +6,8 @@ export default function About() {
     <div id='about'>
         <main>
   <header className="row tm-welcome-section">
-    <h2 className="col-12 text-center tm-section-title">About Simple House</h2>
-    <p className="col-12 text-center">This is about page of simple house template. 
-      You can modify and use this HTML template for your website. Total 3 HTML pages included in this template. Header image has a parallax effect.</p>
+    <h2 className="col-12 text-center tm-section-title">Tentang Warong Kampoeng</h2>
+    <p className="col-12 text-center">Ini rumah makang paling populer di Sulawesi Utara, sejak jaman purba :p. Dpe owner bae-bae, dpe CEO cantik skali, dpe chef jago memasa skali. Marijo bakudapa deng dorang.</p>
   </header>
   <div className="tm-container-inner tm-persons">
     <div className="row">
