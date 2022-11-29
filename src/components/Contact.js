@@ -36,10 +36,10 @@ export default function Contact() {
                     Kelurahan Kadoodan, Kota Bitung.
                     </address>
                     <a href="tel:080-090-0110" className="tm-contact-link">
-                    <i className="fas fa-phone tm-contact-icon" />888-888-888-888
+                    Telp :<i className="fas fa-phone tm-contact-icon" /> 888-888-888-888
                     </a>
                     <a href="mailto:info@company.co" className="tm-contact-link">
-                    <i className="fas fa-envelope tm-contact-icon" />waroengkampoeng@gmail.com
+                    Email :<i className="fas fa-envelope tm-contact-icon" />wrgkampoeng@gmail.com
                     </a>
                     <div className="tm-contact-social">
                     <a href="https://fb.com/templatemo" className="tm-social-link"><i className="fab fa-facebook tm-social-icon" /></a>
