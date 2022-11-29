@@ -4,6 +4,7 @@ import Contact from './Contact';
 import About from './About';
 import axios from "axios";
 import Top from './Top';
+import History from './History';
 
 const Homepage = () => {
 
@@ -51,11 +52,6 @@ const Homepage = () => {
                 </div> 
                 </div>
                
-               
-               
-               
-               
-               
                 <div className="tm-section tm-container-inner">
                 <div className="row">
                     <div className="col-md-6">
@@ -74,6 +70,7 @@ const Homepage = () => {
                 </div>
                 <br></br><br></br><br></br>
                 <About />
+                <History />
                 <Contact />
             </main>
         </div>
