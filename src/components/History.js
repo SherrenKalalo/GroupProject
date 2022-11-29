@@ -1,7 +1,7 @@
 import React from 'react';
 import "../assets/css/templatemo-style.css";
 
-export const History = () => {
+export default function History () {
   return (
     <div className="tm-container-inner tm-history">
     <div className="row">
