@@ -8,7 +8,7 @@ export default function About() {
     <div id='about'>
         <main>
   <header className="row tm-welcome-section">
-    <h2 className="col-12 text-center tm-section-title">About Us</h2>
+    <h2 className="col-12 text-center tm-section-title">About</h2>
     </header>
   <div className="tm-container-inner tm-persons">
     <div className="row">
