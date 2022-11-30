@@ -1,5 +1,5 @@
 import React from 'react'
-import "../assets/css/templatemo-style.css";
+import "../assets/css/templatemo-style.css"
 import Zoom from 'react-reveal/Zoom'
 
 export default function About() {
