@@ -16,7 +16,7 @@ export default function About() {
         <figure className="tm-person">
           <img src="img/about-01.jpg" alt="Image" className="img-fluid tm-person-img" />
           <figcaption className="tm-person-description">
-            <h4 className="tm-person-name">Gregorius,  Vincent Adam</h4>
+            <h4 className="tm-person-name">Gregorius Vincent Adam</h4>
             <p className="tm-person-title">OWNER OF WARONG KAMPOENG</p>
             <p className="tm-person-about">Informatics, Computer Science.</p>
             <div>
