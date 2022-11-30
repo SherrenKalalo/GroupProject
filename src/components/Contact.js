@@ -1,5 +1,5 @@
-import React from 'react';
-import "../assets/css/templatemo-style.css";
+import React from 'react'
+import "../assets/css/templatemo-style.css"
 
 export default function Contact() {
   return (
