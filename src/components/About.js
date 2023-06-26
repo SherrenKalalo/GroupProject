@@ -14,11 +14,11 @@ export default function About() {
     <div className="row">
       <article className="col-lg-6">
         <figure className="tm-person">
-          <img src="img/about-01.jpg" alt="Image" className="img-fluid tm-person-img" />
+          <img src="img/nino.jpg" alt="" className="img-fluid tm-person-img" />
           <figcaption className="tm-person-description">
-            <h4 className="tm-person-name">Gregorius Vincent Adam</h4>
+            <h4 className="tm-person-name">Gretio Valantino Tengker Rumuat</h4>
             <p className="tm-person-title">OWNER OF WARONG KAMPOENG</p>
-            <p className="tm-person-about">Informatics, Computer Science.</p>
+            <p className="tm-person-about">Sistem Informasi, Computer Science.</p>
             <div>
               <a href="https://fb.com" className="tm-social-link"><i className="fab fa-facebook tm-social-icon" /></a>
               <a href="https://twitter.com" className="tm-social-link"><i className="fab fa-twitter tm-social-icon" /></a>
@@ -29,11 +29,11 @@ export default function About() {
       </article>
       <article className="col-lg-6">
         <figure className="tm-person">
-          <img src="img/about-02.jpg" alt="Image" className="img-fluid tm-person-img" />
+          <img src="img/jearly.jpeg" alt="" className="img-fluid tm-person-img" />
           <figcaption className="tm-person-description">
-            <h4 className="tm-person-name">Gabriela Anastasya Lahengke</h4>
+            <h4 className="tm-person-name">Jearly Aprillia Berliana Putra</h4>
             <p className="tm-person-title">CEO</p>
-            <p className="tm-person-about">Informatics, Computer Science.</p>
+            <p className="tm-person-about">Sistem Informasi, Computer Science.</p>
             <div>
               <a href="https://fb.com" className="tm-social-link"><i className="fab fa-facebook tm-social-icon" /></a>
               <a href="https://twitter.com" className="tm-social-link"><i className="fab fa-twitter tm-social-icon" /></a>
@@ -43,11 +43,11 @@ export default function About() {
       </article>
       <article className="col-lg-6">
         <figure className="tm-person">
-          <img src="img/about-03.jpg" alt="Image" className="img-fluid tm-person-img" />
+          <img src="img/about-05.jpg" alt="" className="img-fluid tm-person-img" />
           <figcaption className="tm-person-description">
-            <h4 className="tm-person-name">Sherren Brenda Kalalo</h4>
+            <h4 className="tm-person-name">Stephen Anthony Timothy Lobbu</h4>
             <p className="tm-person-title">Chef</p>
-            <p className="tm-person-about">Informatics, Computer Science.</p>
+            <p className="tm-person-about">Sistem Informasi, Computer Science.</p>
             <div>
               <a href="https://fb.com" className="tm-social-link"><i className="fab fa-facebook tm-social-icon" /></a>
               <a href="https://instagram.com" className="tm-social-link"><i className="fab fa-instagram tm-social-icon" /></a>
@@ -57,41 +57,11 @@ export default function About() {
       </article>
       <article className="col-lg-6">
         <figure className="tm-person">
-          <img src="img/about-04.jpg" alt="Image" className="img-fluid tm-person-img" />
+          <img src="img/joe.jpeg" alt="" className="img-fluid tm-person-img" />
           <figcaption className="tm-person-description">
-            <h4 className="tm-person-name">Hendra Ucok Luntungan</h4>
+            <h4 className="tm-person-name">Joe Enrique Golioth</h4>
             <p className="tm-person-title">Chef</p>
-            <p className="tm-person-about">Informatics, Computer Science.</p>
-            <div>
-              <a href="https://fb.com" className="tm-social-link"><i className="fab fa-facebook tm-social-icon" /></a>
-              <a href="https://twitter.com" className="tm-social-link"><i className="fab fa-twitter tm-social-icon" /></a>
-              <a href="https://instagram.com" className="tm-social-link"><i className="fab fa-instagram tm-social-icon" /></a>
-              <a href="https://youtube.com" className="tm-social-link"><i className="fab fa-youtube tm-social-icon" /></a>
-            </div>
-          </figcaption>
-        </figure>
-      </article>
-      <article className="col-lg-6">
-        <figure className="tm-person">
-          <img src="img/about-05.jpg" alt="Image" className="img-fluid tm-person-img" />
-          <figcaption className="tm-person-description">
-            <h4 className="tm-person-name">Stephen Timothy Lobbu</h4>
-            <p className="tm-person-title">Chef</p>
-            <p className="tm-person-about">Informatics, Computer Science.</p>
-            <div>
-              <a href="https://fb.com" className="tm-social-link"><i className="fab fa-facebook tm-social-icon" /></a>
-              <a href="https://instagram.com" className="tm-social-link"><i className="fab fa-instagram tm-social-icon" /></a>
-            </div>
-          </figcaption>
-        </figure>
-      </article>
-      <article className="col-lg-6">
-        <figure className="tm-person">
-          <img src="img/about-06.jpg" alt="Image" className="img-fluid tm-person-img" />
-          <figcaption className="tm-person-description">
-            <h4 className="tm-person-name">Yazel Stepano Tangkeallo</h4>
-            <p className="tm-person-title">Chef</p>
-            <p className="tm-person-about">Informatics, Computer Science.</p>
+            <p className="tm-person-about">Sistem Informasi, Computer Science.</p>
             <div>
               <a href="https://fb.com" className="tm-social-link"><i className="fab fa-facebook tm-social-icon" /></a>
               <a href="https://twitter.com" className="tm-social-link"><i className="fab fa-twitter tm-social-icon" /></a>
@@ -99,6 +69,20 @@ export default function About() {
               <a href="https://youtube.com" className="tm-social-link"><i className="fab fa-youtube tm-social-icon" /></a>
             </div>
           </figcaption>
+        </figure>
+      </article>
+      <article className="col-lg-6">
+        <figure className="tm-person">
+          <img src="img/clemen.jpeg" alt="" className="img-fluid tm-person-img" />
+          <figcaption className="tm-person-description">
+            <h4 className="tm-person-name">Clement Daniel Pattiasina</h4>
+            <p className="tm-person-title">Chef</p>
+            <p className="tm-person-about">Informatics, Computer Science.</p>
+          </figcaption>
+        </figure>
+      </article>
+      <article className="col-lg-6">
+        <figure className="tm-person">
         </figure>
       </article>
     </div>

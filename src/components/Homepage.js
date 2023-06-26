@@ -28,6 +28,7 @@ const Homepage = () => {
                 <div className="tm-paging-links">
                     <h1 className="col-12 text-center tm-section-title">Menu Makanan</h1>
                 </div>
+                
                 </Zoom>
                 {/* Menu */}
                 <div className="row tm-gallery">
